@@ -8,3 +8,5 @@ Weather App build with React & Redux
 > npm install
 > npm start
 ```
+### notice
+webpack file was modified to build for production
