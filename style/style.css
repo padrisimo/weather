@@ -39,3 +39,10 @@ a:hover {
     text-decoration: none;    
     color: #786EA1; 
 }
+
+@media screen and (max-width: 768px) {
+    table {
+      display: block;
+      overflow-x: auto;
+    }
+}
